@@ -3,6 +3,7 @@
     package="com.example.examen">
 
     <application
+        android:name=".SaredApp"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/iniciar_sesion"

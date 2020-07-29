@@ -5,4 +5,9 @@
     <string name="contrasenia">Contraseña</string>
     <string name="olvidar_user">Olvidar usuario</string>
     <string name="olvide_contrasenia">Olvide mi contraseña</string>
+    <string name="total">Total</string>
+    <string name="costo_servicio">Costo de servicio</string>
+    <string name="monto">Monto a enviar</string>
+    <string name="mensaje">Mensaje (opcional)</string>
+    <string name="confirmar">Confirmar</string>
 </resources>
