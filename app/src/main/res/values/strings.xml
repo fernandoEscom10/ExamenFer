@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Examen</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="buen_dia">Buenos días</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="olvidar_user">Olvidar usuario</string>
+    <string name="olvide_contrasenia">Olvide mi contraseña</string>
 </resources>
